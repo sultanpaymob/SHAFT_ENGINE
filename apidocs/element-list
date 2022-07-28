@@ -10,6 +10,7 @@ com.shaft.gui.image
 com.shaft.gui.video
 com.shaft.tools.io
 com.shaft.tools.listeners
+com.shaft.tools.security
 com.shaft.tools.support
 com.shaft.tools.tms
 com.shaft.validation
